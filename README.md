@@ -36,3 +36,6 @@ accuracy_score = 0.6770428015564203
 
 There was not much overfit and it had a good metrics.
 
+Regardless of the data, we have one of the best all time shot takers ever. And he was gone too soon. #RIPKOBE
+
+![](https://github.com/laternader/RIP24and2/blob/main/imgs/ripkobe.jpg)
