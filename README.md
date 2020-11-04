@@ -2,6 +2,8 @@
 
 The dataset was provided by [Kaggle](https://www.kaggle.com/c/kobe-bryant-shot-selection/data?select=sample_submission.csv.zip).
 
+*This is a quick project to be completed in ONE day*
+
 ## Task
 In this data, we were given every single shot taken by Kobe throughout his 20 years in the NBA. 
 
